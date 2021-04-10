@@ -1,8 +1,12 @@
+*{
+    background-color: black;
+}
 .titulo h1 {
     font-family: Arial, Helvetica, sans-serif;
-    color: red;
+    color: white;
     width: 75%;
     padding: auto;
+    
 }
 
 .parrafo {
